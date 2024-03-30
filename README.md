@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 😃 Hi there, I’m your everyday Developer - Shawn Abraham 🙋🏻‍♂<br>
-💁🏻‍♂️ I’m interested in Embedded Systems, Cloud Computing and all things Data.<br>
+💁🏻‍♂️ I’m interested in Machine Learning, Embedded Systems, Cloud Computing and all things Data.<br>
 🌱 I’m currently learning B.Tech CSE (Hons. in Data Analytics).<br>
 🦾 I’m looking to collaborate on data science and Machine Learning projects.<br>
 📫 Reach me at shawnabraham@karunya.edu.in <br>

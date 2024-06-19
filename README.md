@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=URK20CS3026Shawn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quotes
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=untestable)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=unstopable)
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=iamdone)
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=shawnabraham)
 

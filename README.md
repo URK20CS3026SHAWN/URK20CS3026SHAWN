@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### ✍️ Random Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=untestable)
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=iamdone)
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=shawnabraham)
 
 ---

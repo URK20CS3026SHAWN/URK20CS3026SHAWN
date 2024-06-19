@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### ✍️ Random Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=unstopable)
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=iamdone)
-![](https://quotes-github-readme.vercel.app/api?type=sloppy&theme=shawnabraham)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=shawnabs)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=URK20CS3026Shawn&icon=1&color=0)](https://visitcount.itsvg.in)

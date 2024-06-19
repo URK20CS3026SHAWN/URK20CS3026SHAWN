@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=URK20CS3026Shawn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quotes
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=randi) <! ---random int--->
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shawn) [//]: # (This is a comment.)  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=randi) <!---random int--->
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shawn)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abylinjohnson&icon=1&color=0)](https://visitcount.itsvg.in)
